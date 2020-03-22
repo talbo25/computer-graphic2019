@@ -1,7 +1,8 @@
 #pragma once
-
-#include <vector>
-#include <memory>
+#include <glad/glad.h>
+#include <glm/glm.hpp>
+#include <glad/glad.h>#include <vector>
+#include <glm/glm.hpp>#include <memory>
 
 #include "Camera.h"
 #include "MeshModel.h"
